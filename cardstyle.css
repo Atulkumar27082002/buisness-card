@@ -1,0 +1,31 @@
+body{
+    margin :  20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.card{
+   
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display : flex;
+    justify-content: space-around;
+    text-align: center;
+    border: 5px solid #509A47;
+    background-color: #e5989b;
+    color:  #141414;
+    text-shadow: 2px 2px #eaeaea;
+}
+
+text-only:hover{
+    background-color: #509A47;
+}
+
+
+.photo-of-mine{
+    
+    width: 150px;
+    
+}
+
+
+
